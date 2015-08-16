@@ -8,7 +8,7 @@ Another important factor for beginning this project was the need for a cross
 platform alternative.
 
 ## Objective
-- ** Community Driven:** This project aims to remain free, open-source and
+- **Community Driven:** This project aims to remain free, open-source and
  community driven. One of the main reasons for taking this approach is the
  realization that most of the target audience includes tinkerers and hackers
  using the Arduino platform, a platform that consolidates solely of open source
